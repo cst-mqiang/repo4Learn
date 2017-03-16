@@ -1,1 +1,1 @@
-这是一个测试用的readme!
+this readme and repo is just for learn and test!
